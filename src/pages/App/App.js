@@ -50,7 +50,7 @@ class App extends Component {
       {
         name: "Bike",
         image: "https://i.imgur.com/5x6uMRib.jpg",  
-        attributes: ["two wheels", "", "edible?", "Horrible when toasted!"], 
+        attributes: ["two wheels", "lightweight", "fast", "Not as fast as a Rathalos"], 
       },
     ],
     andysThings: [
