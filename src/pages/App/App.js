@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
 import { Route } from 'react-router-dom'
 import './App.css';
-import TylersThings from '../TylersThings/TylersThings'
-import DavidsThings from '../DavidsThings/DavidsThings'
-
+import TylersThings from '../TylersThings/TylersThings';
+import DavidsThings from '../DavidsThings/DavidsThings';
 import AndysThings from '../AndysThings/AndysThings';
 
 class App extends Component {
