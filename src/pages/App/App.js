@@ -36,9 +36,9 @@ class App extends Component {
         attributes: ["time consuming", "enjoyable", "intensive", "black"],
       },
       {
-        name: "giraffe",
-        image: "https://i.imgur.com/qIIVePm.jpg",  
-        attributes: ["tall", "cool", "fun", "animal", "(David doesn't acually own a giraffe)"], 
+        name: "Rathalos",
+        image: "https://i.imgur.com/s4Xo65Ab.png",  
+        attributes: ["breathes fire", "poison tip tail", "flies", "optimal transport", "(David doesn't acually own a Rathalos)"], 
       },
       {
         name: "Alfredo Pasta",
@@ -46,9 +46,9 @@ class App extends Component {
         attributes: ["Pasta", "delicious", "vegan", "creamy"], 
       },
       {
-        name: "Poptart®",
-        image: "https://i.imgur.com/MpCOIuyb.jpg",  
-        attributes: ["p", "food?", "edible?", "Horrible when toasted!"], 
+        name: "Bike",
+        image: "https://i.imgur.com/5x6uMRib.jpg",  
+        attributes: ["two wheels", "", "edible?", "Horrible when toasted!"], 
       },
     ],
     shahzadsThings: [
